@@ -8,7 +8,9 @@
         "microphone": "*",
         "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.5",
         "BitBot": "github:4tronix/bitbot#v2.1.13",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "audio-recording": "*",
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.5"
     },
     "files": [
         "main.blocks",
