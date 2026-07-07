@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.5"
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.5",
+        "BitBot": "github:4tronix/bitbot#v2.1.13"
     },
     "files": [
         "main.blocks",
