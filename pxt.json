@@ -10,7 +10,8 @@
         "BitBot": "github:4tronix/bitbot#v2.1.13",
         "radio-broadcast": "*",
         "audio-recording": "*",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.5"
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.5",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1"
     },
     "files": [
         "main.blocks",
